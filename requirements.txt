@@ -1,0 +1,4 @@
+mysql-connector-python
+openpyxl
+pywin32; sys_platform == "win32"
+Pillow
