@@ -1,0 +1,11 @@
+lupita_errores.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.xlsx
+*.bak
+datos_*.sql
+.vscode/
+.idea/
+Thumbs.db
